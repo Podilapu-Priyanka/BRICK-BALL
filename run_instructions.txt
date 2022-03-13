@@ -19,14 +19,14 @@ For Windows OS ,
 
 For Linux OS , 
 ==>  Open terminal
-==>  Clone Repository with " git clone https://github.com/sdp4377/ZOHO-Assignment_BRICK-BALL.git "
+==>  Clone Repository with " git clone https://github.com/Podilapu-Priyanka/BRICK-BALL "
 ==>  Enter into the Directory cloned directory with " cd ZOHO-Assignment_BRICK-BALL "
 ==>  Download python with " sudo apt-get install python "
 ==>  Run program with " python3 FileName.py "
 
 For Termux on Android, 
 ==>  Open Termux app 
-==>  Clone Repository with " git clone https://github.com/sdp4377/ZOHO-Assignment_BRICK-BALL.git "
+==>  Clone Repository with " git clone https://github.com/Podilapu-Priyanka/BRICK-BALL "
 ==>  Enter into the Directory cloned directory with " cd ZOHO-Assignment_BRICK-BALL "
 ==>  Download python with "apt install python "
 ==>  Run program with " python3 FileName.py "
